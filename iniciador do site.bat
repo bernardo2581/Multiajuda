@@ -1,0 +1,1 @@
+start "iniciador do site" "C:\Users\Bernardo\Documents\Site auxilio de drivers\index.html" 
